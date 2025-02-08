@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div>
+  <img src = "https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif">
+</div>
+
 <!--
 **Jabjibi/Jabjibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
