@@ -1,20 +1,66 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanapon+Yurawan!;" />
+</h1>
 
-<div>
-  <img src = https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/wbgksz4ngdttivrcuxze/create-you-pixel-art-glf-banner-animated-gif-gif>
-</div>
+---
 
-<!--
-**Jabjibi/Jabjibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏆 **Profile Me**
+- **Name:** Tanapon Yurawan  
+- **Nickname:** Jab  
+- **University:** Kasetsart University (Sri Racha Campus)  
+- **Faculty:** Science at Sriracha  
+- **Department:** Computer Science and Information Technology  
+- **Major:** Computer Science  
 
-Here are some ideas to get you started:
+*🚀 "I never stop learning new technologies and am always ready to improve myself."*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 **Contact Me**
+- ✉️ Email: [yurawan.ta@gmail.com](mailto:yurawan.ta@gmail.com)
+- 
+---
+
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+
+### 🖥️ **Languages**
+<p align="startstart">
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,cpp,java" />
+</p>
+
+### 🎨 **Front-End**
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,vue,bootstrap" />
+</p>
+
+### ⚙️ **Back-End**
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ **Database**
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🛠️ **Tools & Applications**
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
+</p>
+
+---
+
+## 🧠 **Currently Learning:**
+<p align="start">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="56" height="56" alt="Dart" />
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="56" height="56" alt="Flutter" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="56" height="56" alt="ASP.NET" />
+</a>
+</p>
+
+---
+
+🌟 *“Keep pushing forward and never stop learning!”* 🚀
