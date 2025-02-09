@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  <img src = "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/wbgksz4ngdttivrcuxze/create-you-pixel-art-glf-banner-animated-gif-gif">
+  <img src = https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/wbgksz4ngdttivrcuxze/create-you-pixel-art-glf-banner-animated-gif-gif>
 </div>
 
 <!--
