@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanapon+Yurawan!;" />
 </h1>
 
+ <img src="https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif" width="1440" heigth="50" />
+
 # 🏆 **Profile Me**
 - **Name:** Tanapon Yurawan  
 - **Nickname:** Jab  
@@ -14,7 +16,6 @@
 
 ### 📬 **Contact Me**
 - ✉️ Email: [yurawan.ta@gmail.com](mailto:yurawan.ta@gmail.com)
-- 
 
 <h2 align="start">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
@@ -43,8 +44,6 @@
     <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
 </p>
 
----
-
 ## 🧠 **Currently Learning:**
 <p align="start">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
@@ -57,7 +56,5 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="56" height="56" alt="ASP.NET" />
 </a>
 </p>
-
----
 
 🌟 *“Keep pushing forward and never stop learning!”* 🚀
