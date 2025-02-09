@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanapon+Yurawan!;" />
 </h1>
 
----
-
 # 🏆 **Profile Me**
 - **Name:** Tanapon Yurawan  
 - **Nickname:** Jab  
@@ -17,9 +15,8 @@
 ### 📬 **Contact Me**
 - ✉️ Email: [yurawan.ta@gmail.com](mailto:yurawan.ta@gmail.com)
 - 
----
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="start">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 ### 🖥️ **Languages**
 <p align="startstart">
