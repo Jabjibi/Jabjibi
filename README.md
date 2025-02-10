@@ -21,7 +21,7 @@
 
 ### 🖥️ **Languages**
 <p align="startstart">
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
 </p>
 
 ### 🎨 **Front-End**
