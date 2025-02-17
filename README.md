@@ -55,6 +55,9 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="56" height="56" alt="ASP.NET" />
 </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="56" height="56" alt="Firebase" />
+</a>
 </p>
 
 🌟 *“Keep pushing forward and never stop learning!”* 🚀
