@@ -58,6 +58,9 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="56" height="56" alt="Firebase" />
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="56" height="56" alt="Next.js" />
+</a>
 </p>
 
 🌟 *“Keep pushing forward and never stop learning!”* 🚀
