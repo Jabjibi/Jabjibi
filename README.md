@@ -26,7 +26,7 @@
 
 ### 🎨 **Front-End**
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,vue,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" />
 </p>
 
 ### ⚙️ **Back-End**
