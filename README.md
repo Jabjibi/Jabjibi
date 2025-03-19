@@ -15,7 +15,7 @@
 *🚀 "I never stop learning new technologies and am always ready to improve myself."*  
 
 ### 📬 **Contact Me**
-- ✉️ Email: [tanapon.yu@ku.t](mailto:yurawan.ta@gmail.com)
+- ✉️ Email: [yurawan.ta@gmail.com](mailto:yurawan.ta@gmail.com)
 
 <h2 align="start">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
