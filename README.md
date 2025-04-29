@@ -21,7 +21,7 @@
 
 ### 🖥️ **Languages**
 <p align="startstart">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,flutter" />
 </p>
 
 ### 🎨 **Front-End**
@@ -46,14 +46,11 @@
 
 ## 🧠 **Currently Learning:**
 <p align="start">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="56" height="56" alt="Dart" />
+<a href="https://docker.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="56" height="56" alt="Firebase" />
 </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="56" height="56" alt="Flutter" />
-</a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="56" height="56" alt="ASP.NET" />
+<a href="https://go.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="56" height="56" alt="Firebase" />
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="56" height="56" alt="Firebase" />
