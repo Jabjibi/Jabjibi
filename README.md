@@ -14,50 +14,35 @@
 
 *🚀 "I never stop learning new technologies and am always ready to improve myself."*  
 
-### 📬 **Contact Me**
+### **Contact Me**
 - ✉️ Email: [yurawan.ta@gmail.com](mailto:yurawan.ta@gmail.com)
 
 <h2 align="start">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
-### 🖥️ **Languages**
+### **Languages**
 <p align="startstart">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,flutter" />
 </p>
 
-### 🎨 **Front-End**
+### **Front-End**
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,next,bootstrap" />
 </p>
 
-### ⚙️ **Back-End**
+### **Back-End**
 <p align="start">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ **Database**
+### **Database**
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
 </p>
 
-### 🛠️ **Tools & Applications**
+### **Tools & Applications**
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,git,vscode,docker" />
 </p>
 
-## 🧠 **Currently Learning:**
-<p align="start">
-<a href="https://docker.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="56" height="56" alt="Firebase" />
-</a>
-<a href="https://go.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="56" height="56" alt="Firebase" />
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="56" height="56" alt="Firebase" />
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="56" height="56" alt="Next.js" />
-</a>
-</p>
 
 🌟 *“Keep pushing forward and never stop learning!”* 🚀
